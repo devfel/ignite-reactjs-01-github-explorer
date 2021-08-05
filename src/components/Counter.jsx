@@ -1,5 +1,7 @@
 import { useState } from "react";
 
+// Component to practice React State.
+
 export function Counter() {
   let [counter, setCounter] = useState(0);
 
